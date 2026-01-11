@@ -5,6 +5,10 @@ I used an DE10-Lite for this project.<br/>
 
 Compiled on Quartus Prime 24.1
 
+## How it Works 🚀
+- Has 4 States
+  * State 1 is Open
+
 ## Tech Stack 🛠️
 100% System Verilog
 
